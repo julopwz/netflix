@@ -23,4 +23,22 @@ video {
 
 }
 
+.capa {
+    position: absolute;
+    bottom: 35%;
+    left: 5%;
+    width: 35%;
+}
+
+.capa-titulo {
+    color: white;
+    font-size: 80px;
+    margin-bottom: 5px;
+    font-weight: bold;
+}
 /* a tela toda vw */
+
+
+.capa-descricao {
+    color: white;
+}
