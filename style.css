@@ -16,6 +16,7 @@ ul {
     justify-content: space-between;
     list-style-type: none;
     position: fixed;
+    margin-top: 5px;
 }
 
 .img-topo {
@@ -29,7 +30,7 @@ video {
 
 .capa {
     position: absolute;
-    bottom: 20%;   /* TOP - CIMA, BOTTOM - BAIXO, LEFT - ESQUERDA, RIGHT- DIREITA */
+    bottom: 40%;   /* TOP - CIMA, BOTTOM - BAIXO, LEFT - ESQUERDA, RIGHT- DIREITA */
     left: 5%;
     width: 35%;
     z-index: 3;
