@@ -16,7 +16,11 @@ function ligaSom(){
 // mostrar modal
 
 botao.addEventListener("click", mostrarModal)
+modal.addEventListener("click", esconderModal)
 
 function mostrarModal(){
     modal.style.display = "block"
+}
+function esconderModal(){
+    modal.style.display = "none"
 }
